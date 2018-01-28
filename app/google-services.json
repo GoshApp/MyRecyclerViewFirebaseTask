@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1049035119045",
+    "firebase_url": "https://myrecyclerviewfirebaseexem.firebaseio.com",
+    "project_id": "myrecyclerviewfirebaseexem",
+    "storage_bucket": "myrecyclerviewfirebaseexem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049035119045:android:fe888b59519cf963",
+        "android_client_info": {
+          "package_name": "xyz.omnik.myrecyclerviewfirebaseexem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049035119045-7h8nvlkf6lpbiaum193l1u3rv7pp1u26.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "xyz.omnik.myrecyclerviewfirebaseexem",
+            "certificate_hash": "a6d9ceb19ea9242c2bbcce6ece186d147e26ace8"
+          }
+        },
+        {
+          "client_id": "1049035119045-pb3q8javtgskd2smdr9f00n3c3l7a3l3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0FJF_fb53a6mI3xxAAN3tzRMxrBGqDLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049035119045-pb3q8javtgskd2smdr9f00n3c3l7a3l3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
